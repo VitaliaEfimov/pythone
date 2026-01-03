@@ -1,0 +1,2 @@
+Привет. Этот текст был зашифрован, если тебе удалось его прочитать, то ты супер кодер!
+Hi. This text was encrypted, and if you managed to read it, you're a super coder!
